@@ -1,0 +1,7 @@
+# Simple Mouse Jiggler
+delay(5)
+loop()
+move(2, 0)
+delay(0.5)
+move(-2, 0)
+delay(300) # 5 Minutes
